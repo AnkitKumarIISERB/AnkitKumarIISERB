@@ -8,7 +8,7 @@ Currently: first-author paper under review at Springer Nature (multimodal depres
 
 ---
 
-## things I've shipped
+## Things I've shipped
 
 **[Voice Journal AI](https://voicejournal-app.vercel.app)** — voice journaling with 60/40 acoustic-semantic emotion fusion. WavLM on your voice, Llama-3.1 on your words, fused into a single valence score. Celery + Redis + WebSockets. Crisis anomaly detection. Runs at $0/month.
 `WavLM` `FastAPI` `Celery` `Redis` `WebSocket` `React` `Docker`
@@ -21,7 +21,7 @@ Currently: first-author paper under review at Springer Nature (multimodal depres
 
 ---
 
-## how I work
+## How I work
 
 I figure things out alone when I have to, and talk it through when that's faster. I work on problems until they're done — not "done for tonight."
 
@@ -29,7 +29,7 @@ I'm equally comfortable reading a paper and implementing it from scratch or debu
 
 ---
 
-## stack
+## Stack
 
 ```
 ML/AI     PyTorch · HuggingFace · WavLM · RoBERTa · sentence-transformers · scikit-learn
@@ -40,9 +40,9 @@ Infra     Render · Vercel · GitHub Actions · Prometheus
 
 ---
 
-## what I'm looking for
+## What I'm looking for
 
-Remote contract work in ML engineering or applied AI — 15 hrs/week alongside my semester. If you're building something in audio AI, multimodal systems, or NLP and need someone who ships, let's talk.
+Remote contract work in ML engineering or applied AI. If you're building something in audio AI, multimodal systems, or NLP and need someone who ships, let's talk.
 
 [ankitk24@iiserb.ac.in](mailto:ankitk24@iiserb.ac.in) · [LinkedIn](https://www.linkedin.com/in/ankit-yadav-476b35378)
 
