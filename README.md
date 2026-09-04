@@ -13,7 +13,7 @@ Currently: first-author paper under review at Springer Nature (multimodal depres
 **[Voice Journal AI](https://voicejournal-app.vercel.app)** — voice journaling with 60/40 acoustic-semantic emotion fusion. WavLM on your voice, Llama-3.1 on your words, fused into a single valence score. Celery + Redis + WebSockets. Crisis anomaly detection. Runs at $0/month.
 `WavLM` `FastAPI` `Celery` `Redis` `WebSocket` `React` `Docker`
 
-**[Aria](https://aria-multimodal.vercel.app)** — real-time conflict detection between what your face and voice are saying. MediaPipe FaceMesh 468-landmark geometry fused with WavLM embeddings over dual WebSocket streams, 500ms fusion loop. 4 graceful degradation modes so it doesn't break when a signal drops.
+**[Aria](https://aria-multimodal-analyzer.vercel.app/)** — real-time conflict detection between what your face and voice are saying. MediaPipe FaceMesh 468-landmark geometry fused with WavLM embeddings over dual WebSocket streams, 500ms fusion loop. 4 graceful degradation modes so it doesn't break when a signal drops.
 `WavLM` `MediaPipe` `scikit-learn` `FastAPI` `Framer Motion`
 
 **[PaperMind](https://papermind-lemon.vercel.app)** — semantic search + RAG Q&A over 200+ research papers. Knowledge graph built entirely in-database with a single pgvector SQL query. Zero hallucination by design — only cites papers that actually exist.
