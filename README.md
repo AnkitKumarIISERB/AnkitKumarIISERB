@@ -44,5 +44,5 @@ Infra     Render · Vercel · GitHub Actions · Prometheus
 
 Remote contract work in ML engineering or applied AI. If you're building something in audio AI, multimodal systems, or NLP and need someone who ships, let's talk.
 
-[ankitk24@iiserb.ac.in](mailto:ankitk24@iiserb.ac.in) · [LinkedIn](https://www.linkedin.com/in/ankit-yadav-476b35378)
+[ankitk24@iiserb.ac.in](mailto:ankitk24@iiserb.ac.in) · [LinkedIn](https://www.linkedin.com/in/ankit-kumar-476b35378/)
 
