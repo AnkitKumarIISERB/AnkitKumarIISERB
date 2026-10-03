@@ -4,8 +4,6 @@ I'm a 3rd-year Data Science and Engineering undergrad at IISER Bhopal, research 
 
 Most of what I build sits at the intersection of speech, emotion, and ML systems — not just the models, but the full stack around them. Redis queues, WebSocket pipelines, async inference workers, the works. I care about architecture tradeoffs as much as accuracy numbers.
 
-Currently: first-author paper under review at Springer Nature (multimodal depression detection, CGFM fusion method, state-of-the-art Macro F1 across 3 corpora).
-
 ---
 
 ## Things I've shipped
