@@ -36,13 +36,14 @@ I build applied AI systems end to end — from multimodal models and speech pipe
 
 ### [aeon](https://github.com/aeon-toolkit/aeon)
 
-Contributor to **aeon**, a JMLR-published Python library for time-series machine learning. I have **3 merged documentation and example-notebook pull requests**, all reviewed and accepted by maintainers:
+Contributor to **aeon**, a JMLR-published Python library for time-series machine learning. I have **4 merged pull requests covering documentation, examples, tests, and maintenance**, all reviewed and accepted by maintainers:
 
 - **[PR #3736](https://github.com/aeon-toolkit/aeon/pull/3736)** — standardized NumPy terminology by replacing remaining “indexes” references with “indices” in docstrings and comments across 13 files, covering segmentation, benchmarking, shapelet, transformations, and utility modules.
 - **[PR #3748](https://github.com/aeon-toolkit/aeon/pull/3748)** — cleared stale `ImportError` output from the `data_unequal` documentation notebook after identifying that it came from an incompatible previous sklearn environment.
 - **[PR #3813](https://github.com/aeon-toolkit/aeon/pull/3813)** — reran the SAST and forecasting notebooks in a current Python 3.12 environment and removed stale `NameError` outputs from the rendered documentation.
+- **[PR #3949](https://github.com/aeon-toolkit/aeon/pull/3949)** — added tests for `get_unchanged_and_required_params_as_str` and fixed its handling of variadic parameters such as `*args` and `**kwargs`.
 
-These contributions focus on documentation quality, reproducible examples, terminology consistency, and keeping generated notebook output trustworthy.
+These contributions focus on documentation quality, reproducible examples, terminology consistency, test coverage, and keeping generated output trustworthy.
 
 ---
 
